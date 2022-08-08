@@ -1,0 +1,29 @@
+@import "src/styles/mixins";
+
+.animal-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  &-loader {
+    display: flex;
+    justify-content: center;
+
+    @include loader;
+  }
+
+  &-error {
+    text-align: center;
+    font-size: 24px;
+  }
+
+  &-item {
+    display: flex;
+    justify-content: center;
+  }
+
+  &-back-action {
+    display: flex;
+    justify-content: flex-start;
+  }
+}

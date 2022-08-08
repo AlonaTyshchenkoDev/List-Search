@@ -1,0 +1,12 @@
+<mat-card class="animal-card" [class.single-page]="!isSinglePage">
+  <mat-card-header>
+    <mat-card-title>{{ animalData.name }}</mat-card-title>
+  </mat-card-header>
+  <img mat-card-image [src]="animalData.imageUrl" [alt]="animalData.name + '-photo'">
+  <mat-card-content>
+    {{ description }}
+  </mat-card-content>
+  <mat-card-actions *ngIf="!isSinglePage">
+    <button mat-button [routerLink]="['/animal-page', animalData.id]">View more...</button>
+  </mat-card-actions>
+</mat-card>

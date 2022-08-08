@@ -1,0 +1,10 @@
+:host::ng-deep {
+  .animal-card {
+    max-width: 550px;
+    margin: 20px;
+  }
+
+  .animal-card.single-page {
+    max-width: 250px;
+  }
+}

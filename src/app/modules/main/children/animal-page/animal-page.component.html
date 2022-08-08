@@ -1,0 +1,22 @@
+<div class="animal-page">
+  <div class="animal-page-back-action">
+    <button mat-raised-button color="primary" [routerLink]="['/animal-list']">
+      <mat-icon>arrow_left</mat-icon>
+      Back to animals list
+    </button>
+  </div>
+  <div *ngIf="animalData" class="animal-page-item">
+    <app-animal-item [animalData]="animalData"></app-animal-item>
+  </div>
+  <div *ngIf="!!errorMessage" class="animal-page-error">
+    {{ errorMessage }}
+  </div>
+  <div *ngIf="isLoading" class="animal-page-loader">
+    <div class="lds-ellipsis">
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+    </div>
+  </div>
+</div>
