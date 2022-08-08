@@ -58,8 +58,8 @@ export class AnimalListComponent implements OnInit, OnDestroy {
         debounceTime(400), // discard emitted values that take less than the specified time between output
         distinctUntilChanged()
       )
-      .subscribe({
-        next: (searchValue) => {
+      .subscribe(
+         (searchValue) => {
           this.searchValue = searchValue;
           if (!searchValue) {
             this.resetListState();
@@ -68,7 +68,7 @@ export class AnimalListComponent implements OnInit, OnDestroy {
           this.currentPage = 0;
           this.searchAnimalsBy();
         }
-      })
+      )
   }
 
   getAnimalList(): void {
