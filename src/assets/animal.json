@@ -1,0 +1,332 @@
+[
+  {
+    "id": 1,
+    "name": "Giant Panda",
+    "description": "High in dense bamboo forests in the misty, rainy mountains of southwestern China lives one of the world's rarest mammals: the giant panda, also called the panda. Only about 1,500 of these black-and-white bears survive in the wild.  \n\nPandas eat almost nothing but bamboo shoots and leaves. Occasionally they eat other vegetation, fish, or small mammals, but bamboo accounts for 99 percent of their diets.\n\nPandas eat fast, they eat a lot, and they spend about 12 hours a day doing it. The reason: They digest only about a fifth of what they eat. Overall, bamboo is not very nutritious. To stay healthy, they have to eat a lot—up to 15 percent of their body weight in 12 hours—so they eat fast. ",
+    "imageUrl": "https://a-z-animals.com/media/2021/07/Fluffiest-Animals_-Giant-Panda-1024x535.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Cheetah",
+    "description": "The cheetah is a large cat identified by black marks (so-called \"tear marks\"), running down from the inner eye along the nose to the outside of the mouth. This feline is an extremely agile animal, having powerful hind legs and a very flexible, muscular spine. The body is long and slender, covered with coarse yellowish fur with small black markings. The tail is spotted with ringed markings, having a black tip on its end. In addition, the tail is quite long, helping the cheetah to keep balance and change direction. The head is small and the eyes are set high, which help them find potential prey in the grasslands. The claws of a cheetah are non-retractable; they dig their claws into the ground, which enhances their grip at high speed.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/G6ynBfhpsyQhnAgJzkWH.webp"
+  },
+  {
+    "id": 3,
+    "name": "Lion",
+    "description": "The lion is a big wild cat with short, tawny-colored fur and white underparts. The long tail ends with a black tuft. The lions display sexual dimorphism with males, having their distinctive manes, ranging in color from black to blond. They develop their manes at the age of 3 years. Meanwhile, manes of those, living in open areas, are notably fuller. The mane makes the lion look much larger than it is, helping the animal intimidate the opponent during confrontations with other lions as well the Spotted Hyena, which is the animal's primary competitor throughout its range. Young lions have a grayish coat, covered with brown markings, which then disappear by the age of 3 months. However, lions in eastern Africa tend to retain these spots on their stomach.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/W5HAGptW4QFJAqu1c2jF.webp"
+  },
+  {
+    "id": 4,
+    "name": "Common Hippo",
+    "description": "The Common hippo is a very large mammal, which name comes from the ancient Greek and means \"river horse\". Hippos are recognizable for their barrel-shaped torsos, wide-opening mouths with large canine tusks, nearly hairless bodies, pillar-like legs, and large size. Despite their stocky shape and short legs, these animals are capable of running 30 km/h (19 mph) over short distances.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/1200px-hipoptamo-hippopotamus-amphibius-parque-nacional-de-chobe-botsuana-2018-07-28-dd-82jpg.webp"
+  },
+  {
+    "id": 5,
+    "name": "Honey Badger",
+    "description": "The Honey badger is a large species of the mustelid family. These animals have small eyes and large skulls. The neck and shoulders are strong and muscular. Their hind feet are small, having short claws, whereas the front feet are, conversely, strong and wide, having large claws, which help badgers in catching prey and running. Being thick and loose, their skin is extremely difficult to seize for predators. Meanwhile, it allows badgers to extricate themselves and bite the opponent. Different subspecies of the Honey badger vary in color. However, as a general rule, these animals are dark black ventrally, having the characteristic dorsal mantle, which is typically grey or bright white, extending the whole length of its body and turning to black at the base of the tail.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/shutterstock-646537060jpg.jpg"
+  },
+  {
+    "id": 6,
+    "name": "African Wild Dog",
+    "description": "The African wild dog is the largest indigenous canid in Africa and one of the most threatened mammals in the world. The fur of African wild dogs consists entirely of stiff bristle-hairs with no underfur. They gradually lose their fur as they age, and older specimens become almost naked. Fur color varies geographically, with northeastern African specimens tending to be predominantly black with small white and yellow patches, while southern African ones are more brightly colored, sporting a mix of brown, black and white coats. Their muzzle is usually black, gradually shading into brown on the cheeks and forehead. A black line extends up the forehead, turning blackish-brown on the back of the ears. A few specimens sport a brown teardrop-shaped mark below the eyes. The back of the head and neck are either brown or yellow. A white patch occasionally occurs behind the forelegs, with some specimens having completely white forelegs, chests, and throats. The tail is usually white at the tip, black in the middle and brown at the base. Some specimens lack the white tip entirely or may have black fur below the white tip. These coat patterns can be asymmetrical, with the left side of the body often having different markings from that of the right.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/african-wild-hunting-dog-1.webp"
+  },
+  {
+    "id": 7,
+    "name": "Aardvark",
+    "description": "The aardvark is a medium-sized, burrowing mammal native to Africa. This animal is easily recognizable due to its unique and unusual appearance: aardvark resembles a pig with rabbit-like ears and a kangaroo-like tail, although the animal is related neither to kangaroos nor rabbits. Instead, it is closely related to elephants. The common name of the species, 'Aardvark', originates from the Afrikaans (South African) language and means \"earth pig\". Aardvark has a long and sticky tongue and flexible snout. The nostrils are covered with hair in order to protect them from entering dust when digging. The skin color of aardvark varies from pale yellowish-grey to pinkish. However, due to burrowing in the soil, their skin is usually stained, typically exhibiting darker grey or reddish-brown coloration.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/orycteropus-afer00jpg.webp"
+  },
+  {
+    "id": 8,
+    "name": "Caracal",
+    "description": "The caracal is a graceful, slender, cat with a short, thick coat and characteristic long black-tufted ears. Its body color ranges from tawny-gray to reddish-brown, and sometimes entirely black “melanistic” animals may occur. They have distinctive narrow black stripes running from their eye to their nose and down the middle of their forehead, and their eyes are yellow-brown, with circular pupils instead of slits. The kittens feature reddish spots on their undersides, which adults do not have.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/ZevLsulG8iYJUuU4R0yy.webp"
+  },
+  {
+    "id": 9,
+    "name": "African Buffalo",
+    "description": "African buffalo are large, heavy cow-like animals native to Africa. They are widely regarded as among the most dangerous animals on the African continent, and according to some estimates they gore, trample, and kill over 200 people every year. Compared with other large bovids, African buffalo have a long but stocky body and short but thickset legs, resulting in a relatively short standing height. The adult buffalo's horns are its characteristic feature: they have fused bases, forming a continuous bone shield across the top of the head referred to as a \"boss\". Savannah-type buffalo have black or dark brown coats with age. Old bulls often have whitish circles around their eyes and on their face. Females tend to have more-reddish coats. Forest-type buffaloes are 30-40% smaller, reddish-brown in color, with much more hair growth around the ears and with horns that curve back and slightly up. Calves of both types have red coats.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/kaffernbffel-cape-buffalo.webp"
+  },
+  {
+    "id": 10,
+    "name": "African Bush Elephant",
+    "description": "Savanna elephant, or otherwise known as African bush elephant, is the largest elephant in Africa. Considerably large ears help the animal radiate excess heat. The hind limbs are shorter than the fore-limbs. The animal possesses a tusk, which aids in marking, feeding, digging and fighting. The Savanna elephant impresses with its massive size: the largest individual of this species was 4 meters at the shoulder and as heavy as 10 tonnes.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/dfmetm7PITrIP8H9EBrp.webp"
+  },
+  {
+    "id": 11,
+    "name": "Impala",
+    "description": "Impala is an elegant and magnificent species of antelope. The animal has slender body with the identifying \"M\"-like marking on the rear. This medium-sized antelope possesses thin, pointed horns with tips, lying far apart from each other. Males of this species are identified by the characteristic \"S\"-like horns. The elegant limbs of these animals have scent glands behind the ankles. The overall coloration of their fur is red-brown with paler sides. In addition, they have black and white colored areas on their body. Thus, the tail, belly, chin, lips, inside ears as well as the lines above the eyes are colored with white. Meanwhile, black bands cover their thighs, tail, forehead and ear tips.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/impala-35763056122jpg.webp"
+  },
+  {
+    "id": 12,
+    "name": "Black-Footed Cat",
+    "description": "This rare and secretive cat is one of the world’s smallest cats, and is Africa’s smallest wild cat. Its coat varies from tawny to cinnamon buff, and has patterns of brown or black oblong spots, which provide effective camouflage. The spots merge into bars which cover the legs, shoulders, and short tail. Feet of Black-footed cats are black on the undersides, which is where their common name comes from.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/black-footed-cat.webp"
+  },
+  {
+    "id": 13,
+    "name": "Vervet Monkey",
+    "description": "The Vervet monkey is of medium to large size and has a black-tipped tail which is often longer than its body. Its fur is olive or gray, lighter on the underside. Its hands and feet are black, as are its ears and face. Its face has a white band above it, framed with white cheek tufts. Its arms and legs are long, about the same length as each other, to enable the monkey to walk with ease on all fours while on the ground, and this actually makes it quite speedy when running. The males tend to be bigger than the females and are easily distinguishable, with their bright blue testicles.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/vervet-monkey-chlorocebus-pygerythrus-gorongosa-national-park-mozambiquejpg.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Plains Zebra",
+    "description": "The Plains zebras are well-known African mammals, exhibiting characteristic black and white stripes all over their body. They are most abundant and, probably, most recognizable grazing animals of the continent. Their closest relatives are donkeys and horses. The sparkling coat of this species reflects more than 70% of incoming heat, which is likely to help these animals survive under scorching African sun. Each of these animals has its own unique stripe pattern, which helps identify individuals. Additionally, striped coat is used as ideal camouflage, allowing these ungulates remain unspotted by predators in the grass.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/plains-zebra-equus-quagga-1.webp"
+  },
+  {
+    "id": 15,
+    "name": "Giraffe",
+    "description": "Giraffes are the world’s tallest living animals, easily identified due to their exclusively long neck. The legs of giraffes are long and solid. The hind legs are shorter than the front legs. The eyes are quite large, ears are medium-sized and the muzzle is long. The short mane stands upright. The tail is long and thin with a dark tassel of hair at the tip. Giraffes have short and sandy colored coat. They have pelage markings of different shape, colored various shades of brown. This animal has bony horns or ossicones, placed on the top of its head. Normally, horns of giraffes are medium-sized in both males and females. Male giraffes can sometimes grow another pair of horns behind the first pair. Females are identified by thin and tufted ossicones while males usually have thick horns with the hair, smoothed due to sparring.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/reticulated-giraffe-samburu-national-park-kenya-02082008.webp"
+  },
+  {
+    "id": 16,
+    "name": "African Civet",
+    "description": "The African civet is a large type of civet that lives throughout sub-Saharan Africa. It is the last surviving member of its genetic group and regarded as the largest civet-like species in the African continent. African civets are not felines, despite looking like and behaving like cats, but are more closely related to weasels, mongooses and other small carnivores. These animals are most well known for their musk that they secrete to mark their territory (called civetone), as used in manufacturing perfume for centuries, and for their striking black and white coloring, making them one of the easiest species of civet to identify.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/african-civet-1.webp"
+  },
+  {
+    "id": 17,
+    "name": "Lechwe",
+    "description": "Lechwe are graceful antelopes found in wetlands of south-central Africa. They are golden brown in color with white bellies. Males are darker than females and only males have horns. The horns are long, spiral-structured and are vaguely lyre-shaped. The hind legs of lechwe are somewhat longer in proportion than in other antelopes; this is an adaptation to ease long-distance running in marshy soil.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/HSgdntb1i2sOp86add85.webp"
+  },
+  {
+    "id": 18,
+    "name": "Leatherback sea turtle",
+    "description": "The leatherback sea turtle, sometimes called the lute turtle or leathery turtle or simply the luth, is the largest of all living turtles and the heaviest non-crocodilian reptile. It is the only living species in the genus Dermochelys and family Dermochelyidae. It can easily be differentiated from other modern sea turtles by its lack of a bony shell; instead, its carapace is covered by oily flesh and flexible, leather-like skin, for which it is named.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/leatherback-turtle-nesting-in-grande-riviere.webp"
+  },
+  {
+    "id": 19,
+    "name": "Red-Headed Rock Agama",
+    "description": "The Red-headed rock agama is a species of lizard found in most of sub-Saharan Africa. Agama lizards can be identified by having a white underside, brown back limbs and a tail with a light stripe down the middle. The stripe on the tail typically possesses about six to seven dark patches along its side. Females, adolescents, and subordinate males have an olive-green head, while a dominant male has a blue body and yellow tail.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/9CGCyXZcXmlNW2hylgGe.webp"
+  },
+  {
+    "id": 20,
+    "name": "West African Crocodile",
+    "description": "The West African crocodile is a species of crocodile that is often confused with the larger and more aggressive Nile crocodile. This successful predator has a streamlined body that enables it to swim swiftly; it also tucks its feet to the side while swimming, making it faster by decreasing water resistance. The eyes, ears, and nostrils are located on top of the head, allowing the crocodile to lie low in the water, almost totally submerged and hidden from prey. It has very good night vision and can hear well.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/sacred-crocodiles.webp"
+  },
+  {
+    "id": 21,
+    "name": "Black-Necked Spitting Cobra",
+    "description": "The Black-necked spitting cobra is a species of spitting cobra found mostly in sub-Saharan Africa. Its color can vary depending on the region. Some specimens are black or pale grey with a yellow or reddish ventral side with a broad, black neck band, often with an orange or pinkish bar on the neck. Other specimens can be yellowish-brown or have a yellow copper color and are missing the bandings around the neck and the reddish color on the belly. Some other specimens are deep reddish-brown, and yet others are olive-brown. Some can even be striped black and white or totally white (with dark eyes). Black-necked spitting cobras have medically significant venom, and like other spitting cobras, they can eject venom from their fangs when threatened; one drop typically reaches over 7 meters (23 ft) and even more in perfect accuracy.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/SnCz5bMo6mEb7zhaL64g.webp"
+  },
+  {
+    "id": 22,
+    "name": "Western Green Mamba",
+    "description": "The Western green mamba is a long, thin, and highly venomous snake. It is a fairly large and predominantly arboreal species, capable of navigating through trees swiftly and gracefully. It will also descend to ground level to pursue prey such as rodents and other small mammals. Some consider Western green mambas not to be particularly aggressive snakes, but others have suggested that they are extremely nervous and are prone to attack aggressively when cornered. Conflict with humans is low compared to some other species found in the region. Bites to people by this species are quite uncommon. Their mortality rate, however, is high and many of the recorded bites have been fatal.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/5hH3DudK1yJgqH4hVET7.webp"
+  },
+  {
+    "id": 23,
+    "name": "Red Fox",
+    "description": "Red foxes are the biggest of the fox species. Their length can be from 45 to 90 cm, with an extra 30 to 55 cm for the tail, with a weight of 3 to 14 kg. Males are slightly bigger than females. Their fur color range is from pale yellowish red to a deep reddish brown for the upper parts, and white or ashy on the underside. The legs are usually black on the lower parts and the tail often is tipped with black or white, and has tail glands. Their eyes are yellow in adulthood. The nose is black or dark brown.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/bV2qtZyUvmlWRmAHKXUz.webp"
+  },
+  {
+    "id": 24,
+    "name": "Killer Whale",
+    "description": "The Killer whale or orca is one of the toothed whales and the largest member of the dolphin family. They have long, round bodies with big dorsal fins in the middle of their back. Their bodies are black with white patches underneath and near their eyes. These distinctive patterns help to camouflage them when they are searching for food. In newborns, the white parts of their body have an orange tinge.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/born-free.webp"
+  },
+  {
+    "id": 25,
+    "name": "Grey Wolf",
+    "description": "The Grey wolf is the largest species of the wild dog family. Females are smaller than males. Male wolves have straight tails and narrow chests. The feet of males are large and the legs are long. The overall color of the Grey wolf's fur is typically grey with black markings and lighter underparts, though wolves can occasionally be black, brown, red, or even pure white. Grey wolves have a very thick fur, consisting of the coarse outer coat, which covers the soft undercoat. Due to the acute sense of hearing and keen sense of smell, the animal can successfully track down prey. In addition, the long legs allow them to make long steps, promoting high speed during the chase.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/eQgIGJEvenB8A1Htabk9.webp"
+  },
+  {
+    "id": 26,
+    "name": "Brown Bear",
+    "description": "The Brown bear is a large mammal with a notable hump of muscles over its shoulders. This animal is the second largest species of bear. The legs of Brown bear are strong with huge paws. Their claws are rather long on their front feet, allowing them to dig their dens as well as dig for food. The ears are relatively small and the face is concave while the head is large with powerful jaws. Brown bears have ability of standing and walking on their hind legs; they do so in order to determine location of a food source or to identify a threat. These animals have thick coat, varying in color from black to brown and blonde. The guard hair of these animals is longer, sometimes having white tip, which gives them grizzled appearance.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/DQjvOrjwumEpEyBEaJtX.webp"
+  },
+  {
+    "id": 27,
+    "name": "Cougar",
+    "description": "The cougar is a type of cat which is large and slender with a short coarse coat. Its color ranges from yellowish to grayish brown except for the belly, which is a paler color. The chest and throat are whitish. Their nose is pinkish, with a black border extending to the lips. There are black stripes on its muzzle, and the areas behind its ears and the tip of its tail are black. The eye color of the adults is grayish brown to golden. They have a long, cylindrical tail that measures about one-third of their total length. Their limbs are muscular and short, and they have broad feet, with five digits on the front feet and five on the back feet.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/cougar-1.webp"
+  },
+  {
+    "id": 28,
+    "name": "Polar Bear",
+    "description": "Polar bears are one of few large mammals that have been able to adapt well to life on the ice. Their fur consists of a layer of dense underfur and an outer layer of guard hairs, which appear white to tan but are actually transparent. The white coat usually yellows with age. The feet of these massive animals are very large to distribute load when walking on snow or thin ice and to provide propulsion when swimming; they may measure 30 cm (12 in) across in an adult. The pads of the paws are covered with small, soft papillae (dermal bumps), which provide traction on the ice. The claws are deeply scooped on the underside to assist in digging in the ice of the natural habitat.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/PDAEzJ6h3lTVhEpWgxGi.webp"
+  },
+  {
+    "id": 29,
+    "name": "Raccoon",
+    "description": "The raccoon is a bear-like mammal of medium size. Its fur is gray to brown, with a black mask surrounding its eyes and white fur on the outside of the mask, around its nose, and a stripe running from its nose to its forehead. It has a ringed, bushy, tail and five toes of each of its black paws. Its paws resemble human hands to some extent. Their toes, being flexible, help them to grab, hold and pull things apart. The raccoon is an excellent climber and is able to descend a tree face first or backward.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/1199px-raccoon-climbing-in-treejpg.webp"
+  },
+  {
+    "id": 30,
+    "name": "Moose",
+    "description": "Moose are one of the northern hemisphere’s largest land mammals and the largest members of the deer family. Their coloring ranges from brown to a dusky black depending on the animal’s age and the time of year, with calves often a light rusty coloring. Moose have long legs, the front legs being longer than the back ones. Their snout is long and they have a droopy bottom lip and a shoulder hump. Under their chin is a flap of skin that is like a bird’s wattle. Their tail is short and each foot has two large toes with hooves and two smaller toes. They can move fast, even in the wet and mud. Their two large toes spread widely apart to stop them from sinking.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/moose-alces-alces.webp"
+  },
+  {
+    "id": 31,
+    "name": "Bobcat",
+    "description": "The bobcat is North America’s most common wildcat and is named because of its short, bobbed tail. It is a medium-sized cat, slightly smaller, though similar in appearance to the lynx, its cousin. Its coat color ranges from shades of brown or beige, with spots or lines of markings in black or dark brown. Males are usually larger than females, and size also varies significantly with their geographic location, with bobcats from the north typically being larger than the ones in the south.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/bobcat-in-brush-sta-5-6.webp"
+  },
+  {
+    "id": 32,
+    "name": "Wolverine",
+    "description": "The wolverine is the biggest member of the weasel family that lives on the land. They have the characteristics of a dog a bear and, a skunk. They have long snouts, short legs, and long hair. They also have a distinguishing dark mask around their forehead and eyes, and a blond stripe of fur running from the shoulders to the beginning of the tail.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/wolverine-gulo-gulo-jerv-1.webp"
+  },
+  {
+    "id": 33,
+    "name": "American Bison",
+    "description": "American bison is a large ungulate mammal that once roamed North America in vast herds. The color of its fur varies in the front and back of its body and is different shades of brown. Bison is hunchbacked and it has a long beard on its chin. The forehead is wide and narrow while the neck is short. Hind legs are smaller than front legs, making up a scarp from humpback to tail. Length of hair differs in front and rear, especially in males: front hair is significantly longer than rear hair. Horns of bison are black, bent inward withal upward and pointed.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/k5680-1.webp"
+  },
+  {
+    "id": 34,
+    "name": "Whooping Crane",
+    "description": "The elegant Whooping crane represents one of the most well-known conservation stories in the United States and thus has captured public imagination in this country. After being pushed to the brink of extinction by unregulated hunting and loss of habitat to just 21 wild and two captive whooping cranes by 1941, conservation efforts have led to a limited recovery. Whooping crane have white feathers almost entirely, aside from black and red marks on their faces and black tips on their wings, these being only visible when the wings are outstretched. Juveniles are reddish-cinnamon, this color becoming mottled as they grow older, until the full snowy-white plumage is attained by the end of an individual's second summer.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/mother-and-son-whooping-cranes-visit-aransas.webp"
+  },
+  {
+    "id": 35,
+    "name": "Boreal woodland caribou",
+    "description": "The boreal woodland caribou, also known as woodland caribou, boreal forest caribou and forest-dwelling caribou, is a North American subspecies of reindeer with the vast majority of animals in Canada. Unlike the Porcupine caribou and barren-ground caribou, boreal woodland caribou are primarily, but not always, sedentary. The boreal woodland caribou is the largest of the caribou subspecies and is darker in colour than the barren-ground caribou. Valerius Geist, specialist on large North American mammals, described the \"true\" woodland caribou as ”the uniformly dark, small-maned type with the frontally emphasized, flat-beamed antlers\" which is \"scattered thinly along the southern rim of North American caribou distribution\". Geist asserts that ”the true woodland caribou is very rare, in very great difficulties and requires the most urgent of attention\", but suggests that this urgency is compromised by the inclusion of the Newfoundland caribou, the Labrador caribou, and Osborn's caribou in the Rangifer tarandus caribou subspecies. In Geist's opinion, the inclusion of these additional populations obscures the precarious position of the \"true\" woodland caribou. They prefer lichen-rich mature forests and mainly live in marshes, bogs, lakes and river regions. The historic range of the boreal woodland caribou covered over half of present-day Canada, stretching from Alaska to Newfoundland and Labrador. The national meta-population of this sedentary boreal ecotype spans the boreal forest from the Northwest Territories to Labrador . Their former range stretched south into the contiguous United States. By 2019, the last individual in the Lower 48 was captured and taken to a rehab center in British Columbia, thus marking the extirpation of the caribou in the contiguous U.S. The boreal woodland caribou was designated as threatened in 2002 by the Committee on the Status of Endangered Wildlife in Canada . Environment Canada reported in 2011 that there were approximately 34,000 boreal caribou in 51 ranges remaining in Canada.. In a joint report by Canadian Parks and Wilderness Society and the David Suzuki Foundation, on the status of boreal woodland caribou, claim that \"the biggest risk to caribou is industrial development, which fragments their habitat and exposes them to greater predation. Scientists consider only 30% of Canada’s boreal woodland caribou populations to be self-sustaining.\" \"They are extremely sensitive to both natural and human disturbance, and to habitat damage and fragmentation brought about by resource exploration, road building, and other human activity. New forest growth following destruction of vegetation provides habitat and food for other ungulates, which in turn attracts more predators, putting pressure on woodland caribou.\" Compared to barren-ground caribou or Alaskan caribou, boreal woodland caribou do not form large aggregations and are more dispersed particularly at calving time. Their seasonal movements are not as extensive. Mallory and Hillis explained how, \"In North America populations of the woodland caribou subspecies typically form small isolated herds in winter but are relatively sedentary and migrate only short distances during the rest of the year.\" The name caribou was probably derived from the Mi'kmaq word xalibu or qalipu meaning \"the one who paws\". According to the then-Canadian Wildlife Service Chief Mammalogist, Frank Banfield, the earliest record of Rangifer tarandus caribou in North America is from a 1.6 million year old tooth found in the Yukon Territory. Other early records of caribou include a \"45,500-year-old cranial fragment from the Yukon and a 40,600-year-old antler from Quebec.\" The ancestral origins of caribou prior to the last glaciation, which occurred approximately 80,000 to 10,000 years ago, are not well understood, however, during the last glaciation it is known that caribou were abundant and distributed in non-glaciated refugia both north and south of the Laurentide ice sheet.— Banfield 1961, Martin and Klein 1984, cited in Wilkerson 2010 The caribou design on the Royal Canadian Mint quarter was first used in 1937.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/2560px-mountain-type-woodland-caribou.webp"
+  },
+  {
+    "id": 36,
+    "name": "Indian yellow-nosed albatross",
+    "description": "The Indian yellow-nosed albatross is a member of the albatross family, and is the smallest of the mollymawks. In 2004, BirdLife International split this species from the Atlantic yellow-nosed albatross; however Clements has not split it yet, and the SACC has not either, but recognises the need for a proposal.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/thalassarche-carteri-se-tasmania-28cropped29.webp"
+  },
+  {
+    "id": 37,
+    "name": "Eastern small-footed myotis",
+    "description": "The eastern small-footed bat is a species of vesper bat. It can be found in southern Ontario and Quebec in Canada and in mountainous portions of the eastern United States from New England to northern Georgia, and westward to northern Arkansas. It is among the smallest bats in eastern North America and is known for its small feet and black face-mask. Until recently, all North American small-footed Myotis were considered to be \"Myotis leibii\". The western population is now considered to be a separate species, Myotis ciliolabrum. The Eastern small-footed bat is rare throughout its range, although the species may be locally abundant where suitable habitat exists. Studies suggest white-nose syndrome has caused declines in their populations. However, most occurrences of this species have only been counted within the past decade or two and are not revisited regularly, making their population status difficult to assess. Additionally, most bat populations in the Eastern U.S. have been monitored using surveys conducted in caves and mines in the winter, but Eastern small-footed bats hibernate in places that make them unlikely to be encountered during these surveys. Perhaps as a result, the numbers of Eastern small-footed bats counted in winter tend to be low and they are relatively variable compared to other species of bats. Many biologists believe the species is stable, having declined little in recent times, but that it is vulnerable due to its relatively restricted geographic range and habitat needs.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/682px-eastern-small-footed-bat-28588124612629.webp"
+  },
+  {
+    "id": 38,
+    "name": "Obovaria subrotunda",
+    "description": "Obovaria subrotunda, common name the round hickorynut, is a species of freshwater mussel, an aquatic bivalve mollusk in the family Unionidae, the river mussels.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/round-hickorynut-mussel-281413311882529.webp"
+  },
+  {
+    "id": 39,
+    "name": "Red-Tailed Hawk",
+    "description": "Red-tailed hawks, especially those in the West, have a very variable plumage, including reddish brown and dark phases. Their wings are long and broad and their tails short and wide. Most have light colored breasts with dark streaks making a mottled \"belly-band\". Most of them have dark brown heads. Their underwings are mottled light and dark. They all have a dark band on the outside edge of the inner underwings, called the \"patagial\" markings. On most adults the upper side of their tail is deep rufous. Lighter birds often feature a faint white \"V\" as part of their back-feathers, as seen when they are perching. Juveniles don't have a red tail.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/red-tailed-hawk-imm-5-09-pa.webp"
+  },
+  {
+    "id": 40,
+    "name": "Bald Eagle",
+    "description": "The Bald eagle is a magnificent and easily identified species of bird. Its body and wings are dark browns in color while the head and tail are white. The legs and feet are bright yellow and the eyes are light yellow. The Bald eagle has sharp talons on its feet and large, hooked beaks. Males of this species are smaller than females. Young and sub-adults are brown in color with different degrees of white spots on the lower part of their bodies.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/bald-eagle-1.webp"
+  },
+  {
+    "id": 41,
+    "name": "Peregrine Falcon",
+    "description": "The Peregrine falcon is the fastest bird in the world and the fastest member of the animal kingdom. It is a large, crow-sized falcon; it has a blue-grey back, barred white underparts, and a black head. The Peregrine falcon is a well-respected falconry bird due to its strong hunting ability, high trainability, versatility, and availability via captive breeding. It is effective on most game bird species, from small to large.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/peregrine-falcon-2.webp"
+  },
+  {
+    "id": 42,
+    "name": "Osprey",
+    "description": "The osprey is a large fish-eating bird of prey with a cosmopolitan range. It has deep, glossy brown upperparts, while its breast is white and sometimes streaked with brown, and the underparts are pure white. The head is white with a dark mask across the eyes, reaching to the sides of the neck. The irises of the eyes are golden to brown, the bill is black, with a blue cere, and the feet are white with black talons. A short tail and long, narrow wings with four long, finger-like feathers, and a shorter fifth, give this bird a very distinctive appearance.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/uPEelPq6WEcw93LNyrM8.webp"
+  },
+  {
+    "id": 43,
+    "name": "Common Raven",
+    "description": "The Common raven is the most widely distributed member of the crow family. Some notable feats of problem-solving provide evidence that this bird is unusually intelligent. Over the centuries, it has been the subject of mythology, folklore, art, and literature. In many cultures, including the indigenous cultures of Scandinavia, ancient Ireland, and Wales, Bhutan, the northwest coast of North America, and Siberia and northeast Asia, the Common raven has been revered as a spiritual figure or godlike creature.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/UElHP9jxOPCRWCjxvMQW.webp"
+  },
+  {
+    "id": 44,
+    "name": "Blue Jay",
+    "description": "Blue jays are small colorful birds native to North America. They are predominantly blue in color with a white chest and underparts, and a blue crest; they have a black, U-shaped collar around the neck and a black border behind the crest. Males and females are similar in plumage that does not vary throughout the year.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/q2RivYzLk0jZekNy2LXL.webp"
+  },
+  {
+    "id": 45,
+    "name": "Canada Goose",
+    "description": "The Canada goose is a bird with a long black neck and head. The geese have a white mark on their beak, near their chin. Another distinctive feature of Canada geese is white U-like band on their rump. The male of a breeding pair is usually bigger. The feet, legs, and beak of Canada goose are black. They have a blackish-brown tail and blackish rump. The back and scapulars of Canada goose are darker brown. The breast, abdomen and flanks vary from light gray to dark chocolate brown in color, either being mixed with a black neck or separated from it by a white ring.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/branta-canadensis-oulu-finland-2020-05-26jpg.webp"
+  },
+  {
+    "id": 46,
+    "name": "Pileated Woodpecker",
+    "description": "Pileated woodpeckers are large, mostly black woodpeckers native to North America. They have a red crest and a white line down the sides of the throat. They show white on the wings in flight. The flight of these birds is strong and direct but undulates in the way characteristic of woodpeckers. Adult males have a red line from the bill to the throat, in adult females these are black.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/pileated-woodpecker-binghamton-ny-1.webp"
+  },
+  {
+    "id": 47,
+    "name": "Great Horned Owl",
+    "description": "The Great horned owl is a round-faced bird with the distinctive horn-shaped feather tuft on the crown of its head, which is darker than the rest of its head, promoting the overall camouflage. The owl possesses powerful, solid legs, feet and claws. The Great horned owl has binocular vision due to its eyes, facing forward. The eyes of the horned owl are various shades of yellow. This bird can also be distinguished by the white colored patch on its throat. Black and brown stripes extend all over the white underbelly. The bill of the bird is black, surrounded by white or tan colored plumage. Plumage on their back is darker, covered with brown and black markings.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/1463px-great-horned-owl-pirates-cove-21893803818jpg.webp"
+  },
+  {
+    "id": 48,
+    "name": "Atlantic Puffin",
+    "description": "The Atlantic puffin is a colorful seabird and is the only puffin native to the Atlantic Ocean. It has a black crown and back, pale grey cheek patches, and white underparts. Its broad boldly marked red and black beak and orange legs contrast with its plumage. It molts while at sea in the winter and some of the bright-colored facial characteristics are lost, with color returning again during the spring. The juvenile has similar plumage, but its cheek patches are dark grey. The juvenile does not have brightly colored head ornamentation, its bill is narrower and is dark-grey with a yellowish-brown tip, and its legs and feet are also dark. Puffins from northern populations are typically larger than in the south and these populations are generally considered a different subspecies.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/76srXIl7bKmSl3Gb6Mj5.webp"
+  },
+  {
+    "id": 49,
+    "name": "Striped Dolphin",
+    "description": "Striped dolphin has a typical shape for a dolphin, exhibiting a blue skin color with a white to light grey stripes, running along the spine: this unique coloration distinguishes the animal from other dolphin species. Meanwhile, the coloration of this animal may vary greatly depending on habitat and helping the dolphin easily merge with the environment. The belly of the animal is lighter than sides. As the dolphins age, the coloration and stripes on their body become more emphatic. In some parts of their range, the Striped dolphins are occasionally called 'streakers' due to their ability of moving very fast in order to avoid boats.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/FrglsQ5pnhV8wTQxGhDh.webp"
+  },
+  {
+    "id": 50,
+    "name": "Red Squirrel",
+    "description": "This attractive little mammal has a chestnut colored upper body, with a buff to cream underside, distinctive ear tufts and a very fluffy tail. The color of the coat ranges from black to red, with red being the most common color in Great Britain. The squirrel sheds its coat two times a year, having a thinner coat in summer and a thicker, darker one in winter, its ear tufts being noticeably larger between August and November. The Eurasian red squirrel, with its lighter, redder coat color, ear-tufts and smaller size is able to be distinguished from the American eastern grey squirrel",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/belinda.webp"
+  },
+  {
+    "id": 51,
+    "name": "Ermine",
+    "description": "Ermine is the common name given to this small northern weasel with a short, black-tipped tail, long body, and short legs. Its fur is dark brown in summer but white in snowy, winter conditions. The white fur is called \"ermine,\" and even where the animal is called a \"stoat,\" when it has its winter coat it may be known as ermine, or being \"in ermine.\" Commercially, this animal has been of importance for the fur trade, particularly its valuable winter coat of white. This highly prized fur has been used to adorn royal robes in Europe and in art was used as a symbol of virginity or purity.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/hermelin-am-weg-stoat.webp"
+  },
+  {
+    "id": 52,
+    "name": "Red Deer",
+    "description": "Red deer are easy to identify due to their mostly uniform color: dark reddy-brown in summer, turning to grayish-brown in winter. During both seasons the underbelly is paler. The females have a face and throat that are paler than those of the males, particularly in summer. Adult red deer are hardly ever seen with spots, or if so, there are not many of them. The distinguishing feature for stags is their antlers, which in mature adults are long and branched. The longer branches usually sweep backward and have a number of much shorter ones in front.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/1200px-deer-48890251767jpg.webp"
+  },
+  {
+    "id": 53,
+    "name": "Wild Boar",
+    "description": "The Wild boar has a rather extensive natural range, covering forests of Europe, north-western Africa and Asia. This wild pig is the ancestor of the contemporary domestic pig. The Wild boar is capable of adapting and living in a wide range of environments. This omnivorous mammal consumes nearly any type of food that it's able to accommodate in its mouth. The Wild boar is an excellent swimmers and a very fast runner.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/ErgAaduTsT3AprEt0w3C.webp"
+  },
+  {
+    "id": 54,
+    "name": "Least Weasel",
+    "description": "The Least weasel lives deep in the Northeast Asian deciduous forest. It hunts day and night, aided by its sharp nails and long slender body. It is the world’s smallest carnivore. According to Blackfoot legend, this species is the bravest of all animals, a hunter that is bold out of proportion to its size. Modern scientists agree with this view, as every single feature of these graceful, lightning-fast little animals appears to be designed so that they are the perfect predator.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/weasel-mustela-nivalis-3.webp"
+  },
+  {
+    "id": 55,
+    "name": "Wood Mouse",
+    "description": "The Wood mouse is quite similar to the yellow-necked mouse, although differs from latter by absence of yellow collar, resembling a bib on the animal's chest. The Wood mouse is otherwise known as 'the Long-tailed field mouse' due to its long tail that is approximately the same size as the total length of the head and body. It's the most widespread and abundant rodent, native to the British Isles. The overall coloration of its fur is reddish-brown. The belly of the animal is either white or greyish.",
+    "imageUrl": "https://animalia-bio.us-east-1.linodeobjects.com/animals/photos/full/1.25x1/field-mouse-2.webp"
+  }
+]

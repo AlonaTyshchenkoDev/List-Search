@@ -1,0 +1,32 @@
+<div class="animal-list" *ngIf="(animalsList$ | async) as animalsList">
+  <div class="animal-list-search" [formGroup]="searchGroup">
+    <mat-form-field appearance="fill">
+      <input matInput type="search" formControlName="search"  id="search" placeholder="Search animal...">
+      <button disabled matSuffix mat-button>
+        <mat-icon>search</mat-icon>
+      </button>
+    </mat-form-field>
+  </div>
+    <div class="animal-list-amount">Amount: {{animalsList.data.length}}</div>
+  <div class="animal-list-items">
+    <app-animal-item *ngFor="let animal of animalsList.data" [animalData]="animal"
+                     [isSinglePage]="false"></app-animal-item>
+  </div>
+  <div *ngIf="!(isFetchingAnimals$ | async) && searchValue.length > 0 && !animalsList.data.length" class="animal-list-empty-list">
+    No animals were found for the query "{{ searchValue }}"
+  </div>
+  <div *ngIf="(isFetchingAnimals$ | async)" class="animal-list-loader">
+    <div class="lds-ellipsis">
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+    </div>
+  </div>
+  <div *ngIf="animalsList.data.length < animalsList.amount && !(isFetchingAnimals$ | async)"
+       class="animal-list-load-more">
+    <button mat-raised-button color="primary" (click)="loadMoreAnimals()">
+      Load More
+    </button>
+  </div>
+</div>
